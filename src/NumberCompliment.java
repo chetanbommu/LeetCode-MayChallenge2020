@@ -6,7 +6,7 @@ public class NumberCompliment {
         System.out.println(findComplement2(2147483646)); /** Expected Output : 1 */
     }
 
-    /** Approach -1 :: Find the decimal and flip the bits.
+    /** Approach -1 :: Find the binary number for decimal and flip the bits.
      *
      * LeetCode stats:
      * Runtime: 9 ms, faster than 7.23% of Java online submissions.
