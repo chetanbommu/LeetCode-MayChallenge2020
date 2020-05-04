@@ -1,9 +1,9 @@
 public class NumberCompliment {
 
     public static void main(String[] args) {
-        System.out.println(findComplement(2147483647));
-        System.out.println(findComplement2(2147483647)); // 0
-        System.out.println(findComplement2(2147483646)); // 1
+        System.out.println(findComplement(2147483647)); /** Expected Output : 0 */
+        System.out.println(findComplement2(2147483647)); /** Expected Output : 0 */
+        System.out.println(findComplement2(2147483646)); /** Expected Output : 1 */
     }
 
     /** Approach -1 :: Find the decimal and flip the bits.
