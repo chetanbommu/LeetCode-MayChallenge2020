@@ -1,5 +1,5 @@
 # LeetCode-MayChallenge2020
-Contains solutions to the May LeetCoding Challenge
+This repo contains solutions(in Java♥) to the May LeetCoding Challenge
 ## WEEK - 1 
 Problem | Solution
 ------- | --------
