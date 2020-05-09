@@ -1,9 +1,18 @@
 public class ValidPerfectSquare {
 
+    /** https://leetcode.com/problems/valid-perfect-square/ */
     public static void main(String[] args) {
         System.out.println(isPerfectSquare(2147395600));
     }
 
+    /** Approach : Using Binary Search to find the square.
+     * Low: 0
+     * High: 46340 (Max possible square root for Integer.MAX_VALUE)
+     *
+     * LeetCode stats:
+     * Runtime: 0 ms, faster than 100.00% of Java online submissions.
+     * Memory Usage: 36.4 MB, less than 6.12% of Java online submissions.
+     * */
     public static boolean isPerfectSquare(int num) {
         int low = 1;
         int high = 46340;
