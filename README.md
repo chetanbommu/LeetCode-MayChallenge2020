@@ -16,3 +16,4 @@ Problem | Solution
 ------- | --------
 [Day-1](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3323/) | [Java](https://github.com/chetanbommu/LeetCode-MayChallenge2020/blob/master/src/CheckIfItIsAStraightLine.java)
 [Day-2](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3324/) | [Java](https://github.com/chetanbommu/LeetCode-MayChallenge2020/blob/master/src/ValidPerfectSquare.java)
+[Day-3](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3325/) | [Java]()
