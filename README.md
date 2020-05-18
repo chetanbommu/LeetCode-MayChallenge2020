@@ -23,4 +23,5 @@ Problem | Solution
 ## WEEK - 3
 Problem | Solution
 ------- | --------
+[Day-2](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3331/) | [Java](https://github.com/chetanbommu/LeetCode-MayChallenge2020/blob/master/src/OddEvenLinkedList.java)
 [Day-3](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3332/) | [Java](https://github.com/chetanbommu/LeetCode-MayChallenge2020/blob/master/src/FindAllAnagramsInAString.java)
