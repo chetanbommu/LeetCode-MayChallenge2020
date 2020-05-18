@@ -10,6 +10,10 @@ public class FindAllAnagramsInAString {
         System.out.println(findAnagrams("cbaebabacd", "abc"));
     }
 
+    /** LeetCode Stats:
+     * Runtime: 1502 ms, faster than 9.10% of Java online submissions.
+     * Memory Usage: 40.7 MB, less than 10.00% of Java online submissions.
+     * */
     public static List<Integer> findAnagrams(String s, String p) {
         List<Integer> indices = new ArrayList<>();
         System.out.println(s.length() - p.length());
