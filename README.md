@@ -19,3 +19,8 @@ Problem | Solution
 [Day-3](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3325/) | [Java](https://github.com/chetanbommu/LeetCode-MayChallenge2020/blob/master/src/FindTheTownJudge.java)
 [Day-4](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3326/) | [Java](https://github.com/chetanbommu/LeetCode-MayChallenge2020/blob/master/src/FloodFill.java)
 [Day-5](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3327/) | [Java](https://github.com/chetanbommu/LeetCode-MayChallenge2020/blob/master/src/SingleElementInASortedArray.java)
+
+## WEEK - 3
+Problem | Solution
+------- | --------
+[Day-3](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3332/) | [Java](https://github.com/chetanbommu/LeetCode-MayChallenge2020/blob/master/src/FindAllAnagramsInAString.java)
