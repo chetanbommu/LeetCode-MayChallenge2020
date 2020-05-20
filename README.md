@@ -20,9 +20,11 @@ Problem | Solution
 [Day-4](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3326/) | [Java](https://github.com/chetanbommu/LeetCode-MayChallenge2020/blob/master/src/FloodFill.java)
 [Day-5](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3327/) | [Java](https://github.com/chetanbommu/LeetCode-MayChallenge2020/blob/master/src/SingleElementInASortedArray.java)
 [Day-6](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3328/) | [Java](https://github.com/chetanbommu/LeetCode-MayChallenge2020/blob/master/src/RemoveKDigits.java)
+
 ## WEEK - 3
 Problem | Solution
 ------- | --------
 [Day-2](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3331/) | [Java](https://github.com/chetanbommu/LeetCode-MayChallenge2020/blob/master/src/OddEvenLinkedList.java)
 [Day-3](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3332/) | [Java](https://github.com/chetanbommu/LeetCode-MayChallenge2020/blob/master/src/FindAllAnagramsInAString.java)
 [Day-4](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3333/) | [Java](https://github.com/chetanbommu/LeetCode-MayChallenge2020/blob/master/src/PermutationInString.java)
+[Day-5](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3334/) | [Java](https://github.com/chetanbommu/LeetCode-MayChallenge2020/blob/master/src/OnlineStockSpan.java)
