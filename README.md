@@ -28,3 +28,8 @@ Problem | Solution
 [Day-3](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3332/) | [Java](https://github.com/chetanbommu/LeetCode-MayChallenge2020/blob/master/src/FindAllAnagramsInAString.java)
 [Day-4](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3333/) | [Java](https://github.com/chetanbommu/LeetCode-MayChallenge2020/blob/master/src/PermutationInString.java)
 [Day-5](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3334/) | [Java](https://github.com/chetanbommu/LeetCode-MayChallenge2020/blob/master/src/OnlineStockSpan.java)
+
+## WEEK - 4
+Problem | Solution
+------- | --------
+[Day-1](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3337/) | [Java](https://github.com/chetanbommu/LeetCode-MayChallenge2020/blob/master/src/SortCharactersByFrequency.java)
