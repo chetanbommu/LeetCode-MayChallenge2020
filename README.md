@@ -1,5 +1,13 @@
 # LeetCode-MayChallenge2020
-This repo contains solutions(in Java♥) to the May LeetCoding Challenge
+This repo contains solutions(in Java♥) to the May LeetCoding Challenge 2020.
+📌[Contest link](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/)📌
+
+## Contribution Guideline :
+- Feel free to contribute in this repository. 
+- Just Create pull request if your solution is better than mine in terms of time complexity & space complexity.
+
+🌐[Fork Me on GitHub](https://github.com/chetanbommu/LeetCode-MayChallenge2020/fork)
+
 ## WEEK - 1 
 Problem | Solution
 ------- | --------
@@ -34,11 +42,3 @@ Problem | Solution
 ------- | --------
 [Day-1](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3337/) | [Java](https://github.com/chetanbommu/LeetCode-MayChallenge2020/blob/master/src/SortCharactersByFrequency.java)
 
-
-📌[Contest link](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/)📌
-
-## Contribution Guideline :
-- Feel free to contribute in this repository. 
-- Just Create pull request if your solution is better than mine in terms of time complexity & space complexity.
-
-🌐[Fork Me on GitHub](https://github.com/chetanbommu/LeetCode-MayChallenge2020/fork)
